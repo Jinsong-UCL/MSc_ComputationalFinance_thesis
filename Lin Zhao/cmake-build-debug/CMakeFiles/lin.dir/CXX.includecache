@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/code/Thesis/lin/DIS.cpp
+levmar/levmar.h
+-
+vdt/vdtMath.h
+-
+Faddeeva.hh
+/mnt/c/code/Thesis/lin/Faddeeva.hh
+cmath
+-
+complex
+-
+ctime
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+vector
+-
+
+/mnt/c/code/Thesis/lin/Faddeeva.hh
+complex
+-
+
